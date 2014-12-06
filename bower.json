@@ -1,0 +1,24 @@
+{
+  "name": "binnng/random",
+  "main": "random.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/binnng/random",
+  "authors": [
+    "binnng <imbinnng@gmail.com>"
+  ],
+  "description": "get random number",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "random"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
